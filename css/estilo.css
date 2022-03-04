@@ -31,5 +31,8 @@ to { -webkit-transform: rotate(0deg) scale(1.12) skew(0deg) translate(0px); }
 .servicio {
     color:white
 }
+.colortext-white{
+    color:white
+}
 
 
